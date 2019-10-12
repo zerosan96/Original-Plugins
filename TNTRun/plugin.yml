@@ -1,0 +1,9 @@
+name: System
+main: zerosan96\Main
+version: 1.0.0
+api: [3.0.0-ALPHA8,3.0.0,4.0.0]
+author: zerosan96
+load: POSTWORLD
+commands:
+  tntrun:
+   description: TNTRunコマンド
